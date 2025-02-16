@@ -3,10 +3,6 @@ Department of Meme Experiments (DOME) – A creative lab for meme creation.
 
 ---
 
-Here's a **README.md** draft for your GitHub repository. You can modify it as needed based on your preferences.
-
----
-
 # Meme Templates Repository 🎭  
 
 This repository contains a collection of meme templates that I've created, along with the original assets, editable GIMP (.XCF) files, and example memes generated using these templates.
