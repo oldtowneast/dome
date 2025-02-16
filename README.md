@@ -1,9 +1,8 @@
-# dome
-Department of Meme Experiments (DOME) – A creative lab for meme creation.
+# Department of Meme Experiments (DOME) 🤡
+
+*A creative lab for meme creation.*
 
 ---
-
-# Meme Templates Repository 🎭  
 
 This repository contains a collection of meme templates that I've created, along with the original assets, editable GIMP (.XCF) files, and example memes generated using these templates.
 
